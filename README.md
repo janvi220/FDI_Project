@@ -2,13 +2,13 @@
 This project focuses on analyzing Foreign Direct Investment data using data engineering techniques. The goal is to extract insights and trends from large datasets to support informed decision-making.
 
 🔧 Technologies Used:
-Python (Pandas, NumPy)
-SQL
-Power BI
-ETL (Extract, Transform, Load) processes
-HTML
-Css
-JavaScript 
+1.Python (Pandas, NumPy)
+2.SQL
+3.Power BI
+4.ETL (Extract, Transform, Load) processes
+5.HTML
+6.Css
+7.JavaScript 
 
 📌 Key Features:
 Data Loading: Imported large-scale FDI datasets from multiple sources.
